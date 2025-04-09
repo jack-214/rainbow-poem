@@ -5,7 +5,7 @@ Pink
 Orange
 Blue
 Green
-Univcorn
+Unicorn
 Yellow
 Red
 These are the colours of the rainbow.
